@@ -77,7 +77,7 @@ Example:
 ### 1. Clone Repository
 
 --------------------------
-git clone https://github.com/your-username/linux-wallpaper-rotator.git
+git clone https://github.com/utkarshpankaj5/linux-wallpaper-rotator.git
 cd linux-wallpaper-rotator
 
 --------------------------
